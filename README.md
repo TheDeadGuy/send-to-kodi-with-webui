@@ -13,3 +13,5 @@ I used apache2 for the server and "a2enmod cgid" enables cgi scripts.
 Directories:
 /usr/lib/cgi-bin
 /var/www/html
+
+Credits to allejok96 & Frank Pilhofer for parts of their work that i have used.
